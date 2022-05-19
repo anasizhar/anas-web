@@ -3,7 +3,7 @@ _Hi, I'm Anas Bin Izhar based out of Pakistan 🇵🇰 and do cybersecurity stuf
 
 [Email](mailto:anasizhar1@gmail.com) / [Website](https://anasizhar.github.io/anas-web) / [LinkedIn](https://www.linkedin.com/in/anas0x00/) / [GitHub](https://github.com/anasizhar) / [Stackoverflow](https://security.stackexchange.com/users/219978/syed-anas)
 
-### Profession Work Experience 🤓
+### Professional Work Experience 🤓
 
 **Information Security Analyst** @ [Gelato](https://www.gelato.com/en-US/) _(Nov 2021 - Present)_ <br>
   - Research on latest CVE related to our environment and planning patching activity with cross team collaboration
