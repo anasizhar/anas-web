@@ -1,7 +1,7 @@
 ## $ whoami
 _Hi, I'm Anas Bin Izhar, I replay HTTP requests and stare at black terminals for living(and loves doing it ❤️)!._
 
-[Email](mailto:anasizhar1@gmail.com) | [Website](https://anasizhar.github.io/anas-web) | [LinkedIn](https://www.linkedin.com/in/anas0x00/) | [GitHub](https://github.com/anasizhar) | [Stackoverflow](https://security.stackexchange.com/users/219978/syed-anas) | [Upwork](https://www.upwork.com/freelancers/~01c82f8fe5512febb4)
+[Email](mailto:anasizhar1@gmail.com)|[Website](https://anasizhar.github.io/anas-web)|[LinkedIn](https://www.linkedin.com/in/anas0x00/)|[GitHub](https://github.com/anasizhar)|[Stackoverflow](https://security.stackexchange.com/users/219978/syed-anas)|[Upwork](https://www.upwork.com/freelancers/~01c82f8fe5512febb4)
 
 ### Professional Work Experience 🤓
 
@@ -39,5 +39,5 @@ _Hi, I'm Anas Bin Izhar, I replay HTTP requests and stare at black terminals for
   - Provided freelance cyber security mentoring at [Thinkful ( a Chegg service)](https://www.thinkful.com/) via Upwork.
   - Developed MCQS related to application security for leading recruiting platform for tech [Hacker Rank](https://www.hackerrank.com/) via Upwork.
 
-### Certifications (Do they really mater?! 🤔)
+### Certifications (Do they really matter?! 🤔)
   - [Offensive Security Certified Professional (OSCP)](https://www.credly.com/badges/b1aba2b2-d50f-4de2-909d-d631c6cc154c)
