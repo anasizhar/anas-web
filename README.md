@@ -1,7 +1,7 @@
 ## $ whoami
 _Hi, I'm Anas Bin Izhar, I replay HTTP requests and stare at black terminals for living(and loves doing it ❤️)!._
 
-[Email](mailto:anasizhar1@gmail.com) / [Website](https://anasizhar.github.io/anas-web) / [LinkedIn](https://www.linkedin.com/in/anas0x00/) / [GitHub](https://github.com/anasizhar) / [Stackoverflow](https://security.stackexchange.com/users/219978/syed-anas)
+[Email](mailto:anasizhar1@gmail.com)| [Website](https://anasizhar.github.io/anas-web)| [LinkedIn](https://www.linkedin.com/in/anas0x00/)| [GitHub](https://github.com/anasizhar)| [Stackoverflow](https://security.stackexchange.com/users/219978/syed-anas) | [Upwork](https://www.upwork.com/freelancers/~01c82f8fe5512febb4)
 
 ### Professional Work Experience 🤓
 
