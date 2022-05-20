@@ -1,18 +1,19 @@
 ## $ whoami
-_Hi, I'm Anas Bin Izhar based out of Pakistan 🇵🇰 and do cybersecurity stuff for a living ( and loves to do that! )._
+_Hi, I'm Anas Bin Izhar, I replay HTTP requests and stare at black terminals for living(and loves doing it ❤️)!._
 
 [Email](mailto:anasizhar1@gmail.com) / [Website](https://anasizhar.github.io/anas-web) / [LinkedIn](https://www.linkedin.com/in/anas0x00/) / [GitHub](https://github.com/anasizhar) / [Stackoverflow](https://security.stackexchange.com/users/219978/syed-anas)
 
 ### Professional Work Experience 🤓
 
 **Information Security Analyst** @ [Gelato](https://www.gelato.com/en-US/) _(Nov 2021 - Present)_ <br>
-  - Research on latest CVE related to our environment and planning patching activity with cross team collaboration
-  - Penetration Testing of inhouse build applications and APIs
-  - Managing User Access via Keycloak to ensure the principle of least privileged access
-  - AWS security monitoring along with other log sources exported on ELK
-  - Implementing security best practices in CI/CD
-  - Building in house tools mostly in python3 to automate repetitive actions
-  - Managing and responding to Responsible Discloures
+  - Leading Vulnerability Assessment and Penetration Testing, also the following patching activity through cross team collaboration
+  - Log Monitoring and Incident Response on ELK
+  - AWS Security audit and hardening (EC2, S3, Macie, IAM, GuarDuty etc.)
+  - Assessing the security posture of our partners and building tools to automate their assessment
+  - Terraform configuration review
+  - Made 2 python3 tools for Gelato till now to automate tasks which were being done manually
+  - Educating fellow employees on basic information security hygiene
+  - Managing Vulnerability Disclosure program for Gelato
 <br><br>
 
 **Security Engineer - Level 2** @ [Sendoso](https://sendoso.com/) _(April 2021 - October 2021)_ <br>
