@@ -37,7 +37,7 @@ _Hi, I'm Anas Bin Izhar, I replay HTTP requests and stare at black terminals for
   - Submitted bugs for fun and profit to various companies like AT&T, Helium, UsabilityHub, Namshi LLC etc. via [Hackerone](https://hackerone.com/n00bs3c?type=user) and responsible disclosure.
   - Developed 3 tools 1 [public](https://github.com/anasizhar/lazy_nessus) and other 2 are private which are focused to my employers environment
   - Provided freelance cyber security mentoring at [Thinkful ( a Chegg service)](https://www.thinkful.com/) via Upwork.
-  - Developed MCQS related to application security for leading recruiting platform for tech [Hacker Rank](https://www.hackerrank.com/) via Upwork.
+  - Developed exercises related to application security for leading recruiting platform for tech [Hacker Rank](https://www.hackerrank.com/) via Upwork
 
 ### Certifications (Do they really matter?! 🤔)
   - [Offensive Security Certified Professional (OSCP)](https://www.credly.com/badges/b1aba2b2-d50f-4de2-909d-d631c6cc154c)
