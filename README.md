@@ -1,2 +1,4 @@
-## $ whoami
-_Hi, I'm Anas Bin Izhar, I replay HTTP requests and stare at black terminals for living(and loves doing it ❤️)!._
+🚨🚨🚨🚨  
+This blog is shifted to a new address here: https://anasizhar.me.
+
+Apologies for incoveniance.
